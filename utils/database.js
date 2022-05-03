@@ -18,7 +18,7 @@ if(isProduction) {
       user: 'postgres',
       host: 'localhost',
       port: '5432',
-      database: 'crown_xx',
+      database: 'crown_82',
       password: '0000'
   });
 }
